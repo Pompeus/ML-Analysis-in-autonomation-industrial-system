@@ -1,5 +1,6 @@
 # Analysis of artificial intelligence in predictive maintenance present in automation systems within the industrial environmen
-English Version 🇺🇸:
+
+# English Version 🇺🇸:
 
 This project consisted of a study to identify the best possible Machine Learning model to make predictions of errors that occurred in a machinery, for this more than 6 models were used for testing, verifying their quality and accuracy, several optimization techniques were used, so that the model took into account several factors.
 
